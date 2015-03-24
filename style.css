@@ -17,8 +17,18 @@ a:hover{color:#e9463c}
 #title h1 .noun{font-size:300%;line-height:100%}
 #title .subtitle{text-align:center;font-size:50%;margin-top:1em}
 body.impress-on-how #title{opacity:0}
-#impact p{font-size:54%;}
+#impact p{font-size:65%;}
 #impact p em{color:#e9463c}
+#impact p .problem{text-decoration:line-through}
+#impact .problem{color:#e9463c}
+#impact .animation em{display:inline-block;-webkit-animation:swing-anim 1s infinite ease-in-out alternate;-moz-animation:swing-anim 1s infinite ease-in-out alternate;-ms-animation:swing-anim 1s infinite ease-in-out alternate;-o-animation:swing-anim 1s infinite ease-in-out alternate;animation:swing-anim 1s infinite ease-in-out alternate}
+#impact .visual em{display:inline-block;background-image:url("ui/low_contrast_linen.png");overflow:hidden;padding:12px 27px;-webkit-border-radius:21px;-moz-border-radius:21px;-ms-border-radius:21px;-o-border-radius:21px;border-radius:21px;color:#fff;text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 30px #f00,0 0 40px #f00,0 0 70px #f00,0 0 80px #f00,0 0 100px #ff00de,0 0 150px #f00;box-shadow:inset 0 0 12px rgba(0,0,0,0.75)}
+#impact2 p{font-size:65%;}
+#impact2 p em{color:#16a085}
+#impact2 p .problem{text-decoration:line-through}
+#impact2 .problem{color:#e9463c}
+#impact2 .animation em{display:inline-block;-webkit-animation:swing-anim 1s infinite ease-in-out alternate;-moz-animation:swing-anim 1s infinite ease-in-out alternate;-ms-animation:swing-anim 1s infinite ease-in-out alternate;-o-animation:swing-anim 1s infinite ease-in-out alternate;animation:swing-anim 1s infinite ease-in-out alternate}
+#impact2 .visual em{display:inline-block;background-image:url("ui/low_contrast_linen.png");overflow:hidden;padding:12px 27px;-webkit-border-radius:21px;-moz-border-radius:21px;-ms-border-radius:21px;-o-border-radius:21px;border-radius:21px;color:#fff;text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 30px #f00,0 0 40px #f00,0 0 70px #f00,0 0 80px #f00,0 0 100px #ff00de,0 0 150px #f00;box-shadow:inset 0 0 12px rgba(0,0,0,0.75)}
 #impact-old p{margin:2em 0;font-size:75%;}
 #impact-old p em{font-size:150%}
 #impact-old p .problem{text-decoration:line-through}
