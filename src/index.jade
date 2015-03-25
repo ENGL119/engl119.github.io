@@ -10,6 +10,7 @@ html
     meta(name='description', content='A non-technical intro to CSS level 3')
 
     link(href='http://fonts.googleapis.com/css?family=Telex', rel='stylesheet')
+    link(href='mystyle.css', rel='stylesheet')
     link(href='style.css', rel='stylesheet')
     link(rel='shortcut icon', href='favicon.png')
     link(rel='canonical', href='http://scottcheng.github.com/revolutionary-css3/')
@@ -37,7 +38,7 @@ html
         data-scale=1
       )
         h1
-          | <span class="article">The</span><br />
+          | <span class="noun">A</span><br />
           | <span class="adj">NEW MODEL OF</span><br />
           | <span class="noun">PAY TELEVISION</span>
         .subtitle by Good Student
@@ -70,18 +71,38 @@ html
         p 4. Challenges of the on-demand structure
         br
         p 5. Trends of the television market
+        
       #impact-old.step(
         data-x=-810
         data-y=0
         data-rotate=90
-        data-scale=0.25
+        data-scale=0.95
       )
-        p.visual
-          | <em>Stunning visual effect</em><br />
-          | with <span class="problem">large, non-flexible images</span>
-        p.animation
-          | <em>Fancy animation</em><br />
-          | with <span class="problem">complex, error-prone JavaScript</span>
+        #wrapper
+          #content
+              ul#movieposters
+                li
+                  img(src='img/01_iron_man_2.jpg', alt='Iron Man 2')
+                  .movieinfo
+                    h3 Subscription fee
+                    p
+                      | loll
+                li
+                  img(src='img/02_the_last_airbender.jpg', alt='The Last Airbender')
+                  .movieinfo
+                    h3 Violent and sexual content
+                    p
+                      | lolll
+                li
+                  img(src='img/03_tron_legacy.jpg', alt='Tron Legacy')
+                  .movieinfo
+                    h3 Strong Connection
+                    p
+                      | lolll
+          script.
+              (function (){
+              window.clean__ = 'true';
+              })();
       #impact2.step(
         data-x=-600
         data-y=0
@@ -255,35 +276,13 @@ html
             | <a>impress.js presentation framework</a>
             | by
             | <a>Bartek Szopka</a>
-          p
-            | <a>Telex font</a>
-            | by Andrés Torresi for
-            | <a>Huerta Tipográfica</a>
-          p
-            | <a>Light wool pattern</a>
-            | by
-            | <a>Andy Davies</a>
-          p
-            | <a>Low contrast linen pattern</a>
-            | by Jordan Pittman
-          p
-            | <a>Doraemon</a>
-            | inspired by 
-            | <a>HTML5 Rocks slides</a>
-          p
-            | <a href="#transform">CSS3 tags</a>
-            | inspired by
-            | <a href="http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/tagtastic-tag-cloud-with-css-transformations/" target="_blank">Luke Spoor</a>
-        .css3-logo-wrapper
-          svg.css3-logo(xmlns='http://www.w3.org/2000/svg', viewBox='0 0 220.5 199.5')
-            path(d='M32.8,0L25.4,37.0 176.0,37.0 171.3,60.9 20.6,60.9 13.3,97.9 163.9,97.9 155.5,140.1 94.8,160.2 42.2,140.1 45.8,121.8 8.8,121.8 0,166.2 87.0,199.5 187.3,166.2 200.6,99.4 203.3,86.0 220.4,0z')
 
 
     #social
       .social-button-wrapper
         a(
             href='http://engl119.gitbooks.io/a-new-model-of-pay-television/content/',
-          ) Check out our report
+          ) click to check out our report
 
     script(src='lib/impress.js')
     script.
