@@ -15,9 +15,11 @@ html
     link(rel='canonical', href='http://scottcheng.github.com/revolutionary-css3/')
 
   body.impress-not-supported
-    
-    #fallback-message
-    meta(http-equiv="refresh" content="0; url=http://engl119.me/404.html")
+    script(type='text/javascript').
+      <!--
+      if (screen.width <= 699) {
+      document.location = "http://engl119.me/404.html";
+      }
     #hint
       p please hit space or arrow keys to navigate
 
