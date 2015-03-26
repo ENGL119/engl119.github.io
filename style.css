@@ -330,17 +330,17 @@ body.impress-on-how #title{opacity:0}
 
 /* HBO VS NETFLIX */
 @import url(http://fonts.googleapis.com/css?family=Roboto);
-#tina2 * {box-sizing:border-box;}
-#tina body {
+#ti *{box-sizing:border-box;}
+#ti body{
     color:#E3E3E3;
     background:#263238;
     font-family:'Roboto',sans-serif;
 }
-#tina ul {
+#ti ul{
     margin:0;
     padding:0;
 }
-#tina li {
+#ti li{
     list-style:none;
     position:relative;
     
@@ -495,7 +495,7 @@ body.impress-on-how #title{opacity:0}
     height:250px;
     margin:3em auto;
     position:relative;
-		font-size:50px;
+	font-size:30px
 }
 .ring:before {
     width:100%;
@@ -527,7 +527,7 @@ body.impress-on-how #title{opacity:0}
 
 /* health */
 .health {
-    width:100%;
+    width:80%;
     height:28px;
     overflow:hidden;
     border:1px solid;
