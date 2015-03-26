@@ -17,18 +17,48 @@ a:hover{color:#e9463c}
 #title h1 .noun{font-size:300%;line-height:100%}
 #title .subtitle{text-align:center;font-size:50%;margin-top:1em}
 body.impress-on-how #title{opacity:0}
-#impact p{font-size:65%;}
-#impact p em{color:#e9463c}
-#impact p .problem{text-decoration:line-through}
-#impact .problem{color:#e9463c}
-#impact .animation em{display:inline-block;-webkit-animation:swing-anim 3s infinite ease-in-out alternate;-moz-animation:swing-anim 1s infinite ease-in-out alternate;-ms-animation:swing-anim 1s infinite ease-in-out alternate;-o-animation:swing-anim 1s infinite ease-in-out alternate;animation:swing-anim 1s infinite ease-in-out alternate}
-#impact .visual em{display:inline-block;background-image:url("ui/low_contrast_linen.png");overflow:hidden;padding:12px 27px;-webkit-border-radius:21px;-moz-border-radius:21px;-ms-border-radius:21px;-o-border-radius:21px;border-radius:21px;color:#fff;text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 30px #f00,0 0 40px #f00,0 0 70px #f00,0 0 80px #f00,0 0 100px #ff00de,0 0 150px #f00;box-shadow:inset 0 0 12px rgba(0,0,0,0.75)}
+#agenda p{font-size:65%;}
+#agenda p em{color:#e9463c}
+#agenda p .problem{text-decoration:line-through}
+#agenda .problem{color:#e9463c}
+#agenda .animation em{display:inline-block;-webkit-animation:swing-anim 3s infinite ease-in-out alternate;-moz-animation:swing-anim 1s infinite ease-in-out alternate;-ms-animation:swing-anim 1s infinite ease-in-out alternate;-o-animation:swing-anim 1s infinite ease-in-out alternate;animation:swing-anim 1s infinite ease-in-out alternate}
+#agenda .visual em{display:inline-block;background-image:url("ui/low_contrast_linen.png");overflow:hidden;padding:12px 27px;-webkit-border-radius:21px;-moz-border-radius:21px;-ms-border-radius:21px;-o-border-radius:21px;border-radius:21px;color:#fff;text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 30px #f00,0 0 40px #f00,0 0 70px #f00,0 0 80px #f00,0 0 100px #ff00de,0 0 150px #f00;box-shadow:inset 0 0 12px rgba(0,0,0,0.75)}
+#agenda2 p{font-size:65%;}
+#agenda2 p em{color:#e9463c}
+#agenda2 p .problem{text-decoration:line-through}
+#agenda2 .problem{color:#e9463c}
+#agenda2 .animation em{display:inline-block;-webkit-animation:swing-anim 3s infinite ease-in-out alternate;-moz-animation:swing-anim 1s infinite ease-in-out alternate;-ms-animation:swing-anim 1s infinite ease-in-out alternate;-o-animation:swing-anim 1s infinite ease-in-out alternate;animation:swing-anim 1s infinite ease-in-out alternate}
+#agenda2 .visual em{display:inline-block;background-image:url("ui/low_contrast_linen.png");overflow:hidden;padding:12px 27px;-webkit-border-radius:21px;-moz-border-radius:21px;-ms-border-radius:21px;-o-border-radius:21px;border-radius:21px;color:#fff;text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 30px #f00,0 0 40px #f00,0 0 70px #f00,0 0 80px #f00,0 0 100px #ff00de,0 0 150px #f00;box-shadow:inset 0 0 12px rgba(0,0,0,0.75)}
+#agenda3 p{font-size:65%;}
+#agenda3 p em{color:#e9463c}
+#agenda3 p .problem{text-decoration:line-through}
+#agenda3 .problem{color:#e9463c}
+#agenda3 .animation em{display:inline-block;-webkit-animation:swing-anim 3s infinite ease-in-out alternate;-moz-animation:swing-anim 1s infinite ease-in-out alternate;-ms-animation:swing-anim 1s infinite ease-in-out alternate;-o-animation:swing-anim 1s infinite ease-in-out alternate;animation:swing-anim 1s infinite ease-in-out alternate}
+#agenda3 .visual em{display:inline-block;background-image:url("ui/low_contrast_linen.png");overflow:hidden;padding:12px 27px;-webkit-border-radius:21px;-moz-border-radius:21px;-ms-border-radius:21px;-o-border-radius:21px;border-radius:21px;color:#fff;text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 30px #f00,0 0 40px #f00,0 0 70px #f00,0 0 80px #f00,0 0 100px #ff00de,0 0 150px #f00;box-shadow:inset 0 0 12px rgba(0,0,0,0.75)}
+#agenda4 p{font-size:65%;}
+#agenda4 p em{color:#e9463c}
+#agenda4 p .problem{text-decoration:line-through}
+#agenda4 .problem{color:#e9463c}
+#agenda4 .animation em{display:inline-block;-webkit-animation:swing-anim 3s infinite ease-in-out alternate;-moz-animation:swing-anim 1s infinite ease-in-out alternate;-ms-animation:swing-anim 1s infinite ease-in-out alternate;-o-animation:swing-anim 1s infinite ease-in-out alternate;animation:swing-anim 1s infinite ease-in-out alternate}
+#agenda4 .visual em{display:inline-block;background-image:url("ui/low_contrast_linen.png");overflow:hidden;padding:12px 27px;-webkit-border-radius:21px;-moz-border-radius:21px;-ms-border-radius:21px;-o-border-radius:21px;border-radius:21px;color:#fff;text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 30px #f00,0 0 40px #f00,0 0 70px #f00,0 0 80px #f00,0 0 100px #ff00de,0 0 150px #f00;box-shadow:inset 0 0 12px rgba(0,0,0,0.75)}
+#agenda5 p{font-size:65%;}
+#agenda5 p em{color:#e9463c}
+#agenda5 p .problem{text-decoration:line-through}
+#agenda5 .problem{color:#e9463c}
+#agenda5 .animation em{display:inline-block;-webkit-animation:swing-anim 3s infinite ease-in-out alternate;-moz-animation:swing-anim 1s infinite ease-in-out alternate;-ms-animation:swing-anim 1s infinite ease-in-out alternate;-o-animation:swing-anim 1s infinite ease-in-out alternate;animation:swing-anim 1s infinite ease-in-out alternate}
+#agenda5 .visual em{display:inline-block;background-image:url("ui/low_contrast_linen.png");overflow:hidden;padding:12px 27px;-webkit-border-radius:21px;-moz-border-radius:21px;-ms-border-radius:21px;-o-border-radius:21px;border-radius:21px;color:#fff;text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 30px #f00,0 0 40px #f00,0 0 70px #f00,0 0 80px #f00,0 0 100px #ff00de,0 0 150px #f00;box-shadow:inset 0 0 12px rgba(0,0,0,0.75)}
 #section2 p{font-size:65%;}
 #section2 p em{color:#e9463c}
 #section2 p .problem{text-decoration:line-through}
 #section2 .problem{color:#e9463c}
 #section2 .animation em{display:inline-block;-webkit-animation:swing-anim 3s infinite ease-in-out alternate;-moz-animation:swing-anim 1s infinite ease-in-out alternate;-ms-animation:swing-anim 1s infinite ease-in-out alternate;-o-animation:swing-anim 1s infinite ease-in-out alternate;animation:swing-anim 1s infinite ease-in-out alternate}
 #section2 .visual em{display:inline-block;background-image:url("ui/low_contrast_linen.png");overflow:hidden;padding:12px 27px;-webkit-border-radius:21px;-moz-border-radius:21px;-ms-border-radius:21px;-o-border-radius:21px;border-radius:21px;color:#fff;text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 30px #f00,0 0 40px #f00,0 0 70px #f00,0 0 80px #f00,0 0 100px #ff00de,0 0 150px #f00;box-shadow:inset 0 0 12px rgba(0,0,0,0.75)}
+#section20 p{font-size:65%;}
+#section20 p em{color:#e9463c}
+#section20 p .problem{text-decoration:line-through}
+#section20 .problem{color:#e9463c}
+#section20 .animation em{display:inline-block;-webkit-animation:swing-anim 3s infinite ease-in-out alternate;-moz-animation:swing-anim 1s infinite ease-in-out alternate;-ms-animation:swing-anim 1s infinite ease-in-out alternate;-o-animation:swing-anim 1s infinite ease-in-out alternate;animation:swing-anim 1s infinite ease-in-out alternate}
+#section20 .visual em{display:inline-block;background-image:url("ui/low_contrast_linen.png");overflow:hidden;padding:12px 27px;-webkit-border-radius:21px;-moz-border-radius:21px;-ms-border-radius:21px;-o-border-radius:21px;border-radius:21px;color:#fff;text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 30px #f00,0 0 40px #f00,0 0 70px #f00,0 0 80px #f00,0 0 100px #ff00de,0 0 150px #f00;box-shadow:inset 0 0 12px rgba(0,0,0,0.75)}
 #section21 p{font-size:65%;}
 #section21 p em{color:#e9463c}
 #section21 p .problem{text-decoration:line-through}
@@ -59,12 +89,6 @@ body.impress-on-how #title{opacity:0}
 #section25 .problem{color:#e9463c}
 #section25 .animation em{display:inline-block;-webkit-animation:swing-anim 3s infinite ease-in-out alternate;-moz-animation:swing-anim 1s infinite ease-in-out alternate;-ms-animation:swing-anim 1s infinite ease-in-out alternate;-o-animation:swing-anim 1s infinite ease-in-out alternate;animation:swing-anim 1s infinite ease-in-out alternate}
 #section25 .visual em{display:inline-block;background-image:url("ui/low_contrast_linen.png");overflow:hidden;padding:12px 27px;-webkit-border-radius:21px;-moz-border-radius:21px;-ms-border-radius:21px;-o-border-radius:21px;border-radius:21px;color:#fff;text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 30px #f00,0 0 40px #f00,0 0 70px #f00,0 0 80px #f00,0 0 100px #ff00de,0 0 150px #f00;box-shadow:inset 0 0 12px rgba(0,0,0,0.75)}
-#impact2 p{font-size:65%;}
-#impact2 p em{color:#16a085}
-#impact2 p .problem{text-decoration:line-through}
-#impact2 .problem{color:#e9463c}
-#impact2 .animation em{display:inline-block;-webkit-animation:swing-anim 1s infinite ease-in-out alternate;-moz-animation:swing-anim 1s infinite ease-in-out alternate;-ms-animation:swing-anim 1s infinite ease-in-out alternate;-o-animation:swing-anim 1s infinite ease-in-out alternate;animation:swing-anim 1s infinite ease-in-out alternate}
-#impact2 .visual em{display:inline-block;background-image:url("ui/low_contrast_linen.png");overflow:hidden;padding:12px 27px;-webkit-border-radius:21px;-moz-border-radius:21px;-ms-border-radius:21px;-o-border-radius:21px;border-radius:21px;color:#fff;text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 30px #f00,0 0 40px #f00,0 0 70px #f00,0 0 80px #f00,0 0 100px #ff00de,0 0 150px #f00;box-shadow:inset 0 0 12px rgba(0,0,0,0.75)}
 #impact-old p{margin:2em 0;font-size:75%;}
 #impact-old p em{font-size:150%}
 #impact-old p .problem{text-decoration:line-through}
@@ -111,6 +135,9 @@ body.impress-on-how #title{opacity:0}
 #gradient .apple-nav{width:900px;height:45px;background-image:-webkit-gradient(linear,0 100%,0 0,from(#666),color-stop(.5,#5e5e5e),color-stop(.51,#707070),to(#808080));background-image:-webkit-linear-gradient(bottom,#666 0,#5e5e5e 50%,#707070 51%,#808080 100%);background-image:-moz-linear-gradient(bottom,#666 0,#5e5e5e 50%,#707070 51%,#808080 100%);background-image:-ms-linear-gradient(bottom,#666 0,#5e5e5e 50%,#707070 51%,#808080 100%);background-image:-o-linear-gradient(bottom,#666 0,#5e5e5e 50%,#707070 51%,#808080 100%);background-image:linear-gradient(bottom,#666 0,#5e5e5e 50%,#707070 51%,#808080 100%);box-shadow:0 0 3px #aaa;-webkit-border-radius:12px;-moz-border-radius:12px;-ms-border-radius:12px;-o-border-radius:12px;border-radius:12px}
 #gradient .radial{width:600px;height:240px;margin:1em auto;-webkit-border-radius:12px;-moz-border-radius:12px;-ms-border-radius:12px;-o-border-radius:12px;border-radius:12px;background-image:-webkit-gradient(radial,center center,0,center center,100%,color-stop(0%,#fe6f66),color-stop(100%,#e9463c));background-image:-webkit-radial-gradient(75% 25%,circle cover,#fe6f66 0%,#e9463c 100%);background-image:-moz-radial-gradient(75% 25%,circle cover,#fe6f66 0%,#e9463c 100%);background-image:-o-radial-gradient(75% 25%,circle cover,#fe6f66 0%,#e9463c 100%);background-image:-ms-radial-gradient(75% 25%,circle cover,#fe6f66 0%,#e9463c 100%);background-image:radial-gradient(circle at 75% 25%,#fe6f66 0%,#e9463c 100%);box-shadow:0 0 6px #993832}
 #shadows .inset{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;-webkit-border-radius:12px;-moz-border-radius:12px;-ms-border-radius:12px;-o-border-radius:12px;border-radius:12px;margin:auto;width:900px;height:300px;background-image:url("ui/low_contrast_linen.png");box-shadow:inset 0 24px 60px rgba(0,0,0,0.75);color:#222;text-shadow:0 1px 0 rgba(255,255,255,0.15);padding:75px 225px}
+#tina1 .inset{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;-webkit-border-radius:12px;-moz-border-radius:12px;-ms-border-radius:12px;-o-border-radius:12px;border-radius:12px;margin:auto;width:900px;height:300px;background-image:url("ui/low_contrast_linen.png");box-shadow:inset 0 24px 60px rgba(0,0,0,0.75);color:#222;text-shadow:0 1px 0 rgba(255,255,255,0.15);padding:75px 225px}
+#tina3 .inset{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;-webkit-border-radius:12px;-moz-border-radius:12px;-ms-border-radius:12px;-o-border-radius:12px;border-radius:12px;margin:auto;width:900px;height:300px;background-image:url("ui/low_contrast_linen.png");box-shadow:inset 0 24px 60px rgba(0,0,0,0.75);color:#222;text-shadow:0 1px 0 rgba(255,255,255,0.15);padding:75px 225px}
+#tina2 .inset{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;-webkit-border-radius:12px;-moz-border-radius:12px;-ms-border-radius:12px;-o-border-radius:12px;border-radius:12px;margin:auto;width:900px;height:300px;background-image:url("ui/low_contrast_linen.png");box-shadow:inset 0 24px 60px rgba(0,0,0,0.75);color:#222;text-shadow:0 1px 0 rgba(255,255,255,0.15);padding:75px 225px}
 #google-lofter > .box{float:left;width:50%;text-align:center;}
 #google-lofter > .box .content{display:-webkit-box;display:-moz-box;display:box;-webkit-box-align:center;-moz-box-align:center;-ms-box-align:center;-o-box-align:center;box-align:center;-webkit-box-pack:center;-moz-box-pack:center;-ms-box-pack:center;-o-box-pack:center;box-pack:center;-webkit-box-orient:vertical;-moz-box-orient:vertical;-ms-box-orient:vertical;-o-box-orient:vertical;box-orient:vertical;height:450px;}
 #google-lofter > .box .content .google-button{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none;margin:12px 0;font-size:30px;color:#fff;text-transform:uppercase;text-shadow:0 2px rgba(0,0,0,0.25);-webkit-border-radius:6px;-moz-border-radius:6px;-ms-border-radius:6px;-o-border-radius:6px;border-radius:6px;padding:12px;width:300px;display:inline-block;cursor:pointer;background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#dd4b39),color-stop(100%,#ec625a));background-image:-webkit-linear-gradient(top,#dd4b39 0%,#ec625a 100%);background-image:-moz-linear-gradient(top,#dd4b39 0%,#ec625a 100%);background-image:-ms-linear-gradient(top,#dd4b39 0%,#ec625a 100%);background-image:-o-linear-gradient(top,#dd4b39 0%,#ec625a 100%);background-image:linear-gradient(to bottom,#dd4b39 0%,#ec625a 100%);border:1px solid transparent;}
@@ -557,6 +584,7 @@ body.impress-on-how #title{opacity:0}
 
 /* bros */
 .bros {
+	margin-left: 200px;
     bottom:0;
     width:100%;
     position:absolute;
