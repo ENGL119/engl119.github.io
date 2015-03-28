@@ -103,6 +103,8 @@ body.impress-on-how #title{opacity:0}
 100%{-webkit-transform:rotate(15deg);-moz-transform:rotate(15deg);-ms-transform:rotate(15deg);-o-transform:rotate(15deg);transform:rotate(15deg)}
 }#how:not(.present){opacity:.02}
 #how .how{font-size:550%;line-height:.8em;text-align:center;text-transform:uppercase}
+#endquestion:not(.present){opacity:.02}
+#endquestion .endquestion{font-size:100%;line-height:.8em;text-align:center;text-transform:uppercase}
 #border-radius .doraemon{margin:auto;}
 #border-radius .doraemon *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;-webkit-transition:border-radius .25s ease-out;-moz-transition:border-radius .25s ease-out;-ms-transition:border-radius .25s ease-out;-o-transition:border-radius .25s ease-out;transition:border-radius .25s ease-out}
 #border-radius .doraemon .face{position:relative;width:600px;height:600px;background:#3c96e9;border:#555 3px solid;margin:auto;z-index:0;}
