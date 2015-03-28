@@ -1272,3 +1272,136 @@ body.impress-on-how #title{opacity:0}
 
 }
 
+#sukiseesaw {
+	top: 50px;
+	position: absolute;
+	left: 200px;
+
+}
+.seesaw {
+  position: absolute;
+  bottom: 100px;
+  left: 300px;
+  width: 0;
+  height: 0;
+  border-bottom: 10px solid #868686;
+  border-left: 5px solid transparent;
+  border-right: solid 5px transparent;
+}
+.seesaw:before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 200px;
+  height: 3px;
+  margin-left: -100px;
+  background-color: #b9b9b9;
+  transform-origin: 50% 50%;
+  transform: rotateZ(5deg);
+  -webkit-animation: seesaw 2s linear infinite;
+}
+.seesaw:after {
+  content: '';
+  position: absolute;
+  bottom: -12px;
+  left: 50%;
+  width: 200px;
+  height: 2px;
+  margin-left: -100px;
+  background-color: #e8e8e8;
+}
+
+.cube {
+  position: absolute;
+  bottom: 50px;
+  left: 20px;
+  width: 60px;
+  height: 60px;
+  background-color: #56A69E;
+  -webkit-animation: cube 2s linear infinite;
+  transform-origin: 50% 50%;
+  overflow: hidden;
+}
+
+.cube-sec {
+  position: absolute;
+  bottom: 106px;
+  left: 370px;
+  width: 30px;
+  height: 30px;
+  background-color: #F2A922;
+  transform-origin: 50% 50%;
+  transform: rotateZ(5deg);
+  -webkit-animation: cube-sec 2s linear infinite;
+}
+
+@-webkit-keyframes cube {
+  5% {
+    width: 80px;
+    height: 30px;
+    margin-left: -10px;
+  }
+  10% {
+    width: 60px;
+    height: 60px;
+    bottom: 50px;
+    left: 20px;
+    margin-left: 0px;
+    transform: rotateZ(0deg);
+  }
+  40% {
+    bottom: 300px;
+  }
+  70% {
+    width: 15px;
+    height: 15px;
+    bottom: 104px;
+    left: 210px;
+    transform: rotateZ(1074deg);
+  }
+  75% {
+    height: 10px;
+  }
+  80% {
+    width: 15px;
+    height: 15px;
+    bottom: 104px;
+    left: 210px;
+    transform: rotateZ(1074deg);
+  }
+  100% {
+    width: 15px;
+    height: 15px;
+    bottom: 104px;
+    left: 210px;
+    transform: rotateZ(1074deg);
+  }
+}
+@-webkit-keyframes cube-sec {
+  65% {
+    bottom: 106px;
+    transform: rotateZ(5deg);
+  }
+  80% {
+    bottom: 500px;
+    transform: rotateZ(1024deg);
+  }
+  100% {
+    bottom: 500px;
+    transform: rotateZ(1024deg);
+  }
+}
+@-webkit-keyframes seesaw {
+  68% {
+    transform: rotateZ(5deg);
+  }
+  70% {
+    transform: rotateZ(-5deg);
+  }
+  100% {
+    transform: rotateZ(-5deg);
+  }
+}
+
+
